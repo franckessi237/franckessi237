@@ -1,7 +1,7 @@
 ![logo](https://github.com/franckessi237/franckessi237/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm ESSI TSONDO FRANCK PATRICK</h1>
-<h3 align="right">Fullstack Development | Cloud computing | Data Science | Data Engineering |DevOps</h3>
+<h3 align="right">full stack developer | Cloud computing | Data Science | Data Engineering |DevOps</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/M9kgjEsLG6LMbYC9dl/source.gif">
 
